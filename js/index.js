@@ -39,7 +39,7 @@ var model = {
       items: [{title: "INFINITE MARIO", desc:"Randomized Mario game made in JS", version: "1.0 by Markus Persson mod by DEFAULTDNB", active: false, icon: "IM", expage: "payloads/games/infmario/infmarioloader.html" }, {title: "FLAPPYBIRD", desc:"Classic Flappy Bird made in JS", version: "1.0 by Fatiherikli mod by DEFAULTDNB", active: false, icon: "whatshot", expage: "payloads/games/flappybird/flappyloader.html" }, {title: "SNAKE", desc:"Classic Snake game made in JS", version: "1.0 by Patorjk mod by DEFAULTDNB", active: false, icon: "pages", expage: "payloads/games/snake/snakeloader.html" }]
 	},
 	"★ABOUT": {
-      index: 14,
+      index: 4,
       title: "★ABOUT",
       selectedIndex: 0,
       active: false,
@@ -47,7 +47,7 @@ var model = {
       items: [{title: "CREDITS", desc:"Without these people none of this would be possible", version: "1.4 by DEFAULTDNB", active: false, icon: "fingerprint", expage: "payloads/creditsloader.html" }, {title: "PAYLOAD STATISTICS", desc:"Logs how many times a payload has been loaded. (VTX HEN/DUMP/FTP only)", version: "0.1 POC by DEFAULTDNB", active: false, icon: "info", expage: "payloads/statsloader.html" }]
   },
 	"★DEBUG": {
-      index: 4,
+      index: 5,
       title: "★DEBUG",
       selectedIndex: 0,
       active: false,
