@@ -39,6 +39,7 @@ payloads\5.5x\Exploit-55x\respond.min.js
 payloads\5.5x\Exploit-55x\style.css
 payloads\5.5x\Exploit-55x\exploit\5.55\custom.css
 payloads\5.5x\Exploit-55x\exploit\5.55\expl.js
+payloads\5.5x\Exploit-55x\exploit\5.55\homebrew.js
 payloads\5.5x\Exploit-55x\exploit\5.55\index.html
 payloads\5.5x\Exploit-55x\exploit\5.55\kern.js
 payloads\5.5x\Exploit-55x\exploit\5.55\rop.js
@@ -126,3 +127,11 @@ payloads\games\snake\snake.js
 payloads\games\snake\snakeloader.html
 payloads\player\player.html
 payloads\player\player.jpg
+payloads\test\6.00.html
+payloads\test\custom.css
+payloads\test\expl.js
+payloads\test\kern.js
+payloads\test\rop.js
+payloads\test\screen.js
+payloads\test\syscalls.js
+payloads\test\userland.js
